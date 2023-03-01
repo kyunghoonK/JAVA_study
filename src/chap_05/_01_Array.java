@@ -49,4 +49,3 @@ public class _01_Array {
         boolean[] b = {true, true, false};
     }
 }
-
